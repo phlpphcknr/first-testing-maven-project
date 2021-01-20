@@ -9,7 +9,7 @@ public class CheckStringLengthTest {
     @Test
     public void greaterThan20ReturnsTrue(){
         //Input
-        String text1 = "zudszuibeauwibcxwaubbcubc";
+        String text1 = "zudszu";
 
         //Actual method
         boolean result = CheckStringLengthApp.longer20(text1);
