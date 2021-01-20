@@ -24,7 +24,7 @@ public class CheckStringLengthApp{
 
     // new method
     public static int triplicate(int value){
-        return value * 4;
+        return value * 3;
     }
 
 
